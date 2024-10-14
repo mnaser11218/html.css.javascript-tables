@@ -1,0 +1,7 @@
+/* table{
+    border-style: solid
+} */
+table, tr{
+border-style: solid;
+margin:0px;
+}
